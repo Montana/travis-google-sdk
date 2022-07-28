@@ -1,2 +1,3 @@
 # travis-google-sdk
-Travis CI + Google Cloud SDK + Kubectl + Docker
+
+Fixed `gzip` deprecation problem in build for Google. 
