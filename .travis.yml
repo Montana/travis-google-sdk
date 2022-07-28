@@ -1,5 +1,6 @@
 dist: jammy 
-vm: 2x-large
+vm:
+  size: 2x-large
 cache:
   directories:
   - $HOME/google-cloud-sdk
