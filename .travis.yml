@@ -1,3 +1,6 @@
+dist: jammy 
+vm: 2x-large
+group: edge
 cache:
   directories:
   - $HOME/google-cloud-sdk
